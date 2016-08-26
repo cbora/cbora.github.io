@@ -1,0 +1,18 @@
+.display-table {
+    display: table;
+    table-layout: fixed;
+}
+
+.display-cell {
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+}
+
+.photo {
+    display: block;
+    max-width: 150px;
+    max-height: 150px;
+    margin: 30px auto;
+    border-radius: 100%;    
+}
